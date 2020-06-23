@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/eosdac/eosdac-factory)
+
 # The eosDAC DAC Factory
 
 Eventually we plan to make building your own DAC (Decentralized Autonomous Community) as easy as following some prompts in an easy-to-use interface. Until we get there, we've put together some shell scripts to automate creating DACs on the Jungle Testnet for our own testing purposes. Please understand, these scripts are not ready for production use and our systems are changing constantly, including significant contract changes which, in the future, may mean you do not need to deploy your own DAC contracts, but can use ours with your own DAC scope. That said, if you'd like to better understand how things work as they are now, these scripts should get you familiar with the accounts, contracts, permissions, authorizations, APIs, tools, and interfaces that go into a fully working DAC.
